@@ -1,11 +1,11 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 import streamlit as st
-from babel.numbers import format_currency
-sns.set(style='dark')
+# from babel.numbers import format_currency
+# sns.set(style='dark')
 
-st.header('Bike Sharing Dashboard :sparkles:')
+st.header('Analisa Hasil Pemeriksaan Lab RSK Paru :sparkles:')
 
 datetime_columns = ["Tgl Permohonan Lab", "Tgl Hasil dilaporkan", "tanggal"]
 
